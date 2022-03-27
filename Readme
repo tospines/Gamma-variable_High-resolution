@@ -1,5 +1,5 @@
 This repository contains predictions of the gamma-ray flux throughout the sky, as well as all-sky CR distributions, from gamma-ray motivated inhomogeneous models of cosmic-ray transport developed and explained in details in ArXiv: [...]
 In order to facilitate the comparison with forthcoming data, we provide the scientific community with high resolution all-sky-maps of the diffuse $\gamma$-ray emission of the Galaxy from 10 GeV to 1 PeV.
-These can be found at: [...]
+These can be found at: https://doi.org/10.5281/zenodo.6385206
 Through this link one can find the the High resolution gamma-ray sky maps of Inverse-Compton, Bremsstrahlung and hadronic emission in form of fits files, as obtained as output from the HERMES package.
 In addition, that link also contains the map of cosmic rays obtained with the same model, for the Min and Max hypotheses of the local spectrum of protons and helium.
